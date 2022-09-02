@@ -7,5 +7,6 @@
         <page name='4-arrays'/>
         <page name='5-dictionaries'/>
         <page name='6-Loops'/>
+        <page name='7-optionals'/>
     </pages>
 </playground>
