@@ -1,5 +1,7 @@
 # swift-basics
 
+https://docs.swift.org/swift-book/
+
 Swift is a powerful and intuitive programming language for iOS, iPadOS, macOS, tvOS, and watchOS. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design and produces software that runs lightning-fast.
 
 Main Goal: Learn how the programming language works to develop scalable native apple apps and use XCTest for Testing.

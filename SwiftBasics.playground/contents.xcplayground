@@ -9,5 +9,6 @@
         <page name='6-Loops'/>
         <page name='7-optionals'/>
         <page name='8-functions'/>
+        <page name='9-classes'/>
     </pages>
 </playground>
